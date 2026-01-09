@@ -60,7 +60,8 @@ COMMON_WORDS = {
             'should', 'may', 'might', 'can', 'must', 'this', 'that', 'these',
             'those', 'a', 'an', 'reference', 'references', 'refer', 'referring', 'organization', 'center'
             'my', 'your', 'his', 'her', 'its', 'our', 'their', 'me', 'you',
-            'him', 'us', 'them', 'i', 'we', 'they', 'he', 'she', 'it'
+            'him', 'us', 'them', 'i', 'we', 'they', 'he', 'she', 'it', 'cross','name',
+            'title','professor','department'
         }
 # Custom patterns to redact (add your own regex patterns here)
 # These are merged with patterns from config.py if it exists

@@ -155,3 +155,4 @@ python anonymize_pdf.py document.pdf --names "Full Name" "Another Person"
 
 MIT License - Use freely, modify as needed.
 
+
